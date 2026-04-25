@@ -193,7 +193,3 @@ GitHub Actions pipeline (`.github/workflows/ci.yml`):
 - `CODECOV_TOKEN` — (optional) for coverage reporting
 
 ---
-
-## License
-
-MIT
